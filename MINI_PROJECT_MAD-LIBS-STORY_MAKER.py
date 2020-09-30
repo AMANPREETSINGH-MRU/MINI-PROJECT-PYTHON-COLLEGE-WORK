@@ -1,4 +1,6 @@
 # PYTHON MINI PROJECT  Mad LibS STORY generator.
+''' THERE WE MADE A VARIABLE madlib OF STRING TYPE AND WE INCLUDE FORMATTING OF STRING FEATURE IN TAHT STRING .SO WE CAN FILL THAT BLANKS AT THE TIME OF PROCESSING'''
+
 madlib = '''On the {} trip to {}, my {} friend and I decided to invent a game. Since 
 this would be a rather {} trip, it would need to be a game with {} and {}. 
 Using our {} to {}, we tried to get the {} next to us to play too, but they 
